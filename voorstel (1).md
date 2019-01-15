@@ -8,9 +8,8 @@ Deze website is eenvoudig en efficiënt, zonder spam, en voor alle doelgroepen.
 
 ### Schetsen
 
-![Schets 1]("C:\Users\david\Desktop\voorstel_1.PNG")
+[Schetsen](https://docs.google.com/presentation/d/1vd6hnFBhVhjwufJE3FLvwI_Mhs6Ra2_f7SeBGiFoqi8/edit?usp=sharing)
 
-![Schets 2]("C:\Users\david\Desktop\voorstel_2.PNG")
 
 ### Features
 
